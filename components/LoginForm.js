@@ -82,7 +82,7 @@ export default function LoginForm() {
             )}
             <div className="mt-4 text-right text-sm">
               <Link href={"/register"}>
-                Don't have an account?{" "}
+                Don&apos;t have an account?{" "}
                 <span className="underline">Register</span>
               </Link>
             </div>
